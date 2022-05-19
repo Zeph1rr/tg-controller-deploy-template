@@ -9,7 +9,7 @@
 
 ## INSTALLATION
 
-- Создать своего telgram бота с помощью @BotFather (можно воспользоваться [инструкцией](https://botcreators.ru/blog/kak-sozdat-svoego-bota-v-botfather/)
+- Создать своего telgram бота с помощью @BotFather (Можно воспользоваться [инструкцией](https://botcreators.ru/blog/kak-sozdat-svoego-bota-v-botfather/))
 - Скачать или склонировать репозиторий на машину с установленным docker-compose
 - Настроить переменные окружения в соответствии с [инструкцией](#ENV)
 - Запустить программу с помощью docker-compose up -d
