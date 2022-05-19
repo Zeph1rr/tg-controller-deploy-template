@@ -1,0 +1,11 @@
+version: "2.0"
+services:
+  bot:
+      container_name: bot
+      image: zeph1rrio/tg-controller:${VERSION}
+      env_file: app_env
+      ports:
+        - ${EXTERNAL_PORT}:${PORT}
+      restart: unless-stopped
+      volumes:
+        - ./logs/:${LOG_PATH}

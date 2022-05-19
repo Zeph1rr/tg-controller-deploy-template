@@ -1,0 +1,12 @@
+#BOT ENV
+BOT_TOKEN=
+CHATS=
+
+#LOGGER ENV
+NEED_CONSOLE_LOG=true
+DEBUG_LEVEL=full
+LOG_PATH=/var/log/tg-controller
+
+#APP ENV
+PORT=3000
+TZ=Europe/Moscow
