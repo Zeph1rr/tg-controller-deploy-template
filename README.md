@@ -1,6 +1,5 @@
 # tg-controller-deploy-template
 
-
 ## INFO
 
 - Автор: Zeph1rr
@@ -36,3 +35,12 @@
 )
 - PORT - Внутренний порт контйнера, на котором работает приложение (Оставить 3000)
 - TZ - Таймзона для корректного указания времени в логах. (По умолчанию Europe/Moscow)
+
+
+## SCREENSHOTS
+
+![Form](https://i.imgur.com/upmmpiY.png)
+
+![Alert](https://i.imgur.com/FiykBPJ.png)
+
+![Bot](https://i.imgur.com/fCjVdAa.png)
